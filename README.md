@@ -257,17 +257,45 @@
     <span class="prompt">visitor@github:~$</span> <span class="cmd">cat profile.md</span>
   </div>
 
-  
+  <!-- NAME -->
+  <div class="name-block">
+    <div class="name-big">Aman <span>Jadhave</span></div>
+    <div class="name-role">Desktop Support Engineer → System Administrator</div>
+  </div>
+
+  <!-- BADGES -->
+  <div class="badge-row">
+    <span class="badge green">● Open to Work</span>
+    <span class="badge blue">Desktop Support</span>
+    <span class="badge blue">Windows Environments</span>
+    <span class="badge amber">Networking</span>
+    <span class="badge purple">Learning Linux &amp; PowerShell</span>
+    <span class="badge amber">Learning Azure</span>
+  </div>
 
   <!-- BIO -->
   <div style="font-size:13px; color:var(--muted); line-height:1.8; max-width:640px;">
-      System Adminstrator with hands-on experience delivering Level 1 helpdesk support —
+    IT Support engineer with hands-on experience delivering Level 1 helpdesk support —
     diagnosing hardware/software faults, managing endpoints, configuring LAN/Wi-Fi, and
     providing remote assistance. Building toward a Sysadmin role with active study of
     Linux, PowerShell scripting, and cloud fundamentals.
   </div>
 
-  
+  <hr class="divider">
+
+  <!-- CAREER PATH -->
+  <div class="section-title">⬡ Career Path</div>
+  <div class="path-row">
+    <div class="path-step current">✓ Tier 1 Helpdesk</div>
+    <span class="path-arrow">──▶</span>
+    <div class="path-step next">⟳ Tier 2 / Desktop Support</div>
+    <span class="path-arrow">──▶</span>
+    <div class="path-step future">◯ Sysadmin / SysEng</div>
+    <span class="path-arrow">──▶</span>
+    <div class="path-step future">◯ Cloud / DevOps</div>
+  </div>
+
+  <hr class="divider">
 
   <!-- SKILLS -->
   <div class="section-title">⬡ Technical Stack</div>
@@ -329,7 +357,50 @@
   <div class="section-title">⬡ Featured Projects</div>
   <div class="grid2">
 
-    
+    <div class="card">
+      <div class="card-header">
+        <span class="card-icon">⬡</span>
+        <span class="card-title">Windows OS Deployment</span>
+        <span class="card-meta badge blue">Windows</span>
+      </div>
+      <div class="card-desc">
+        Deployed &amp; standardized Win 10/11 on multiple machines — drivers, MS Office, AV, and security patches.
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <span class="card-icon">⬡</span>
+        <span class="card-title">Office Network Setup</span>
+        <span class="card-meta badge amber">Networking</span>
+      </div>
+      <div class="card-desc">
+        Configured LAN/Wi-Fi, IP addressing; resolved DNS and printer-sharing issues across office devices.
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <span class="card-icon">⬡</span>
+        <span class="card-title">Hardware Upgrades</span>
+        <span class="card-meta badge green">Hardware</span>
+      </div>
+      <div class="card-desc">
+        RAM &amp; SSD upgrades, faulty component diagnostics, and scheduled preventive maintenance.
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <span class="card-icon">⬡</span>
+        <span class="card-title">Remote IT Support</span>
+        <span class="card-meta badge purple">Tools</span>
+      </div>
+      <div class="card-desc">
+        Delivered L1 remote support via AnyDesk &amp; TeamViewer — ticket management and system updates.
+      </div>
+    </div>
+
   </div>
 
   <hr class="divider">
